@@ -29,6 +29,3 @@ router.render = (req, res) => {
 server.listen(PORT, () => {
 	console.log('JSON Server is running');
 });
-
-// 5. Sample testing URL
-// http://localhost:3002/bo/user/getUserById
